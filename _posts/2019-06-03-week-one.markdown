@@ -1,4 +1,4 @@
-# Week One: Airplane Testing
+# Week One - Airplane Testing
 
 This article details various problems that have plagued the Boeing 737 Max airplane which has been involved in multiple airline crashes in the last year. The focus is on the warning light which is supposed to inform pilots when a sensor in the plane is malfunctioning. The problem is much deeper than a warning light and stems from the manufacturer outfitting the plane with much larger engines than it was originally designed for. After putting too large engines on the plane to compete with a rival manufacturer they implemented a flight correction system which would change the angle of the plane to correct its nose angling up too much due to the larger engines. This correction system often over corrected the plan and would send it into a nosedive. There is a warning light to indicate that this may happen, but it was an optional feature. 
 

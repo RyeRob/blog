@@ -1,0 +1,9 @@
+# Week Seven – The User Experience of Plants
+
+This article details the author’s quest to not kill their plants. They came up with the idea of a device to monitor and track the changing humidity and temperate of their plants using custom built electronics and a smart phone app. The author shows many examples of each step of their journey from prototype to fully built solution. I enjoyed seeing how the design changed and at first thought this was a product that was intended to be sold to others but realized it was a personal project. The final design of the equipment is beautiful and is an example of great user experience design.
+
+The first sketch with the solar panel may have been functional but the users experience is greatly diminished. This device would take away from the user experience of the plant in that the user wants to see something that reminds them of nature and makes them think of what our planet is made of. As we are often more focused on the things we have made on top of our planet. Having an electronic device prominently situated on the plant takes away from this and doesn’t allow our mind to wonder to the natural world. I think the solution for this is very effective in that you have something that is technological but is cover in a natural material and shaped into something you might find in nature like a small animal.
+
+This leaves me wondering about the technical challenges faced with this project and how they overcame them. I don’t know much about electronics and how to program them but some basic insight into this process would be interesting. This article motivates me to solve some of my problems with electronics. I look forward to experiments with microcontrollers and programming in the future and will try to do as good of a job as they did to document it.
+
+source: http://dicksonchow.com/plant-friends

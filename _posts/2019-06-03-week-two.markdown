@@ -1,4 +1,4 @@
-# Week Two: Using VIM
+# Week Two - Using VIM
 
 This article is an interesting overview of VIM and VI. It details when and why it was made as well as arguing that it is just as relevant today as it was when it was first created. Although I personally have no experience with VI or VIM, I could see how learning it today is still very relevant worthwhile. To me learning this text editor is like spending $100 to save $1000 in the long run. You may spend time learning it in the begging and not being as efficient as if you just stuck with a simpler solution that you are used to but in the long run it could save you a lot of time. From a usability perspective this how VIM is designed. It is not intended to be user friendly to the beginner but the more you learn about it the more user friendly it becomes.
 

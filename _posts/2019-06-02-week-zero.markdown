@@ -1,4 +1,4 @@
-# Week Zero: Building on Averages
+# Week Zero - Building on Averages
 
 This article is based on the history of averages and how we began building things around the average size of humans in the mid 19th century. It goes on to detail how Adolphe Quételet popularized the “science” of averages and some of the systems we use today that are based on averages. This included the development of a clothing size model in the American civil war which was the first time small, medium and large sizes of clothing were made. For certain things this system of averages made sense and was efficient but for other things it ended up being the wrong size for everyone because no one is exactly average. I found this idea very interesting as I have never really considered the how this could work out in reality.
 
